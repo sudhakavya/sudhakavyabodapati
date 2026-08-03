@@ -6,11 +6,11 @@ author_profile: true
 
 # Sudhakavya Bodapati Venkata
 
-DevOps Engineer | Cloud Architecture Researcher
+DevOps Engineer | Cloud Architect | Researcher
 
 ## Niche Specialization
 
-
+My area of expertise is DevOps and cloud automation for regulated healthcare device manufacturing environments, where I design and improve Terraform- and Azure DevOps-based delivery systems that enable reliable infrastructure modernization, scalable deployment workflows, and complex cross-team problem resolution.
 
 ## Professional Highlights
 
