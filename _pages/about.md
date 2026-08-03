@@ -1,3 +1,9 @@
+---
+permalink: /
+title: "About"
+author_profile: true
+---
+
 # Sudhakavya Bodapati Venkata
 
 ### DevOps Engineer | Cloud Architecture Researcher | Peer Reviewer
