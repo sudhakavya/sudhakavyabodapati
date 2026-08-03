@@ -1,37 +1,48 @@
----
-permalink: /
-title: "About"
-author_profile: true
----
-
 # Sudhakavya Bodapati Venkata
 
-DevOps Engineer | Cloud Architect | Researcher
+### DevOps Engineer | Cloud Architecture Researcher | Peer Reviewer
 
-## Niche Specialization
+#### Niche Specialization
 
-My area of expertise is DevOps and cloud automation for regulated healthcare device manufacturing environments, where I design and improve Terraform- and Azure DevOps-based delivery systems that enable reliable infrastructure modernization, scalable deployment workflows, and complex cross-team problem resolution.
+Specializing in cloud infrastructure automation, Infrastructure as Code, AI-driven operations, and enterprise platform engineering for regulated healthcare technology environments. My work focuses on designing scalable cloud platforms, modernizing software delivery processes, improving operational reliability, and advancing intelligent infrastructure management through a combination of enterprise engineering and scholarly research.
 
 ## Professional Highlights
 
-- Author of 12+ scholarly publications
-- Research cited by the global academic community
-- Active peer reviewer for scholarly journals and conferences
+- Author of 12+ scholarly publications in Cloud Computing, Artificial Intelligence, DevOps Engineering, and Intelligent Systems
+- Published author in IEEE conferences and peer-reviewed journals
+- Research contributions recognized through academic citations and scholarly impact
+- Active peer reviewer supporting journals and international research conferences
 - Contributor to industry publications, including Forbes
-- Experienced in enterprise-scale Azure Cloud and DevOps platforms
-- Research interests spanning Artificial Intelligence, Cloud Computing, and Distributed Systems
+- Experienced in enterprise-scale cloud modernization, platform engineering, and automation initiatives
+- Research interests spanning Artificial Intelligence, Cloud Computing, Distributed Systems, Infrastructure as Code, and Intelligent Automation
 
 ## Areas of Expertise
 
 - Microsoft Azure
 - Azure DevOps
 - Terraform
-- Infrastructure as Code
+- Infrastructure as Code (IaC)
 - CI/CD Automation
 - Platform Engineering
+- Cloud Architecture
+- Enterprise Automation
 - Observability Engineering
 - Dynatrace
-- Enterprise Automation
 - Intune Management
-- AI-Driven Operations
+- AI-Driven Operations (AIOps)
 - Cloud Governance
+- Application Modernization
+- DevSecOps
+- Distributed Systems
+
+## Research Interests
+
+- Cloud Computing
+- Artificial Intelligence
+- Infrastructure as Code
+- DevOps Automation
+- Intelligent Automation
+- Distributed Systems
+- Platform Engineering
+- Observability and Reliability Engineering
+- Healthcare Technology Systems
