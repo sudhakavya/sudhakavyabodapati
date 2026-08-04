@@ -4,8 +4,6 @@ permalink: /media/
 author_profile: true
 ---
 
-# Published Material & Media Coverage
-
 This section includes articles and media coverage that mention or discuss my professional and research work in cloud computing, DevOps automation, infrastructure reliability, and enterprise technology systems.
 
 ---
