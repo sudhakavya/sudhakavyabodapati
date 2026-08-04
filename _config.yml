@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Sudhakavya Bodapati Venkata"
 description              : &description "DevOps Engineer | Cloud Architect | Researcher"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://sudhakavya.github.io"
-baseurl                  : "/sudhakavyabodapati"
+baseurl                  : ""
 repository               : "sudhakavya/sudhakavyabodapati"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -29,7 +29,7 @@ author:
   location         : "Eden Prairie, Minnesota, USA"
   employer         : "Starkey Laboratories, Inc."
   uri              : "https://sudhakavya.github.io"
-  email            : "none@example.org" 
+  email            : "bvsudhakavvya@gmail.com" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=yyiHyQ0AAAAJ"
