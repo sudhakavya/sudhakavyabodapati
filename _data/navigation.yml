@@ -1,6 +1,6 @@
 main:
 
-  - title: "About"
+  - title: "Home"
     url: /
 
   - title: "Research"
@@ -9,7 +9,7 @@ main:
   - title: "Impact"
     url: /citation-impact/
 
-  - title: "Service"
+  - title: "Peer Review"
     url: /peer-review/
 
   - title: "Media"

@@ -83,6 +83,19 @@
 .service-year { color: var(--portfolio-accent); font-size: .84rem; font-weight: 850; }
 .service-item h3 { margin: .3rem 0 .25rem; }
 .service-item p:last-child { margin: 0; color: var(--global-text-color-light); font-size: .88rem; }
+.evidence-card { margin: 1.2rem 0; padding: clamp(1.25rem, 3vw, 1.75rem); border: 1px solid var(--portfolio-line); border-radius: 14px; background: var(--global-bg-color); }
+.evidence-card__header { display: flex; align-items: flex-start; justify-content: space-between; gap: 1.25rem; margin-bottom: 1rem; }
+.evidence-card__header h3 { margin: .3rem 0 0; }
+.evidence-card h4 { margin: 1.2rem 0 .5rem; }
+.evidence-card > p { color: var(--global-text-color-light); }
+.evidence-link { flex: 0 0 auto; color: var(--portfolio-accent); font-size: .78rem; font-weight: 800; text-decoration: none !important; }
+.evidence-note { flex: 0 0 auto; color: var(--global-text-color-light); font-size: .75rem; font-weight: 700; }
+.review-paper-list { margin: .65rem 0 0; padding-left: 1.25rem; }
+.review-paper-list li { margin: .48rem 0; line-height: 1.45; }
+.linked-papers a, .review-paper-list a { color: var(--global-text-color); text-decoration-thickness: 1px; }
+.evidence-disclosure { margin-top: 3rem; padding: 1.5rem; border-left: 4px solid var(--portfolio-accent); background: var(--portfolio-soft); color: #17222f; }
+.evidence-disclosure h2 { margin-top: 0; border: 0; }
+.evidence-disclosure p { margin-bottom: 0; }
 .contact-band { display: flex; gap: 2rem; align-items: center; justify-content: space-between; margin-top: 3.5rem; padding: clamp(1.5rem, 4vw, 2.5rem); border-radius: 16px; background: var(--portfolio-soft); }
 .contact-band h2 { max-width: 650px; margin: .35rem 0 0; padding: 0; border: 0; color: #17222f; font-size: clamp(1.35rem, 3vw, 2rem); }
 
@@ -91,5 +104,6 @@
   .focus-grid { grid-template-columns: 1fr; }
   .recognition-list a { grid-template-columns: 70px 1fr auto; gap: .65rem; }
   .service-item { grid-template-columns: 58px 1fr; gap: .8rem; }
+  .evidence-card__header { flex-direction: column; gap: .65rem; }
   .contact-band { align-items: flex-start; flex-direction: column; }
 }
