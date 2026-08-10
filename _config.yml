@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Sudhakavya Bodapati Venkata "
+title                    : "Sudhakavya Bodapati Venkata"
 title_separator          : "-"
 name                     : &name "Sudhakavya Bodapati Venkata"
-description              : &description "DevOps Engineer | Cloud Architect | Researcher"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "DevOps engineer, cloud architecture researcher, author, and peer reviewer working across Azure, infrastructure automation, AIOps, and regulated technology systems."
 url                      : "https://sudhakavya.github.io"
 baseurl                  : ""
 repository               : "sudhakavya/sudhakavyabodapati"
@@ -28,7 +28,7 @@ author:
   bio              : "DevOps Engineer | Cloud Architect | Researcher"
   location         : "Eden Prairie, Minnesota, USA"
   employer         : "Starkey Laboratories, Inc."
-  uri              : "https://sudhakavya.github.io"
+  uri              : "https://sudhakavya.github.io/sudhakavyabodapati/"
   email            : "bvsudhakavvya@gmail.com" 
 
   # Academic websites
@@ -42,7 +42,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -51,7 +51,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "sudhakavya-bodapati-venkata-7b676816a"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -128,14 +128,18 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_image                 : "/images/profile.png"
+og_description           : "DevOps engineer and cloud architecture researcher specializing in Azure, infrastructure automation, AIOps, and regulated technology systems."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Sudhakavya Bodapati Venkata"
+  links:
+    - "https://scholar.google.com/citations?user=yyiHyQ0AAAAJ"
+    - "https://orcid.org/0009-0004-5810-0431"
+    - "https://github.com/sudhakavya"
+    - "https://www.linkedin.com/in/sudhakavya-bodapati-venkata-7b676816a/"
 
 
 # Analytics
@@ -151,6 +155,27 @@ include:
   - _pages
   - files
 exclude:
+  # Unused starter-theme content; keep it out of the public site and sitemap.
+  - _posts
+  - _teaching
+  - _talks
+  - _portfolio
+  - _publications
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
+  - _pages/collection-archive.html
+  - _pages/cv-json.md
+  - _pages/cv.md
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/page-archive.html
+  - _pages/portfolio.html
+  - _pages/tag-archive.html
+  - _pages/talkmap.html
+  - _pages/talks.html
+  - _pages/teaching.html
+  - _pages/terms.md
+  - _pages/year-archive.html
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

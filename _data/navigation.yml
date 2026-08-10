@@ -1,19 +1,19 @@
 main:
 
-  - title: "Home"
+  - title: "About"
     url: /
 
-  - title: "Authorship of Scholarly Articles"
+  - title: "Research"
     url: /publications/
 
-  - title: "Citation Impact & Research Influence"
+  - title: "Impact"
     url: /citation-impact/
 
-  - title: "Peer Review & Judging Activities"
+  - title: "Service"
     url: /peer-review/
 
-  - title: "Published Material & Media Coverage"
+  - title: "Media"
     url: /media/
 
-  - title: "Speaking Engagements"
+  - title: "Speaking"
     url: /speaking/

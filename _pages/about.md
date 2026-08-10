@@ -1,54 +1,65 @@
 ---
 permalink: /
-title: "About"
+title: "Cloud engineering with research-grade rigor."
+excerpt: "DevOps engineer and cloud architecture researcher building reliable, auditable systems for regulated environments."
 author_profile: true
 ---
 
-# Sudhakavya Bodapati Venkata
+<div class="portfolio-hero">
+  <p class="eyebrow">DevOps Engineer · Cloud Architecture Researcher · Peer Reviewer</p>
+  <h1>Cloud engineering with research-grade rigor.</h1>
+  <p class="hero-copy">I design scalable cloud platforms, modernize software delivery, and advance intelligent infrastructure management for regulated technology environments.</p>
+  <div class="hero-actions">
+    <a class="button button--primary" href="{{ '/publications/' | relative_url }}">Explore my research</a>
+    <a class="button button--secondary" href="mailto:bvsudhakavvya@gmail.com">Get in touch</a>
+  </div>
+</div>
 
-### DevOps Engineer | Cloud Architecture Researcher | Peer Reviewer
+<div class="metric-grid" aria-label="Professional highlights">
+  <a class="metric-card" href="{{ '/publications/' | relative_url }}"><strong>11</strong><span>Listed publications</span></a>
+  <a class="metric-card" href="{{ '/citation-impact/' | relative_url }}"><strong>31+</strong><span>Academic citations</span></a>
+  <a class="metric-card" href="{{ '/citation-impact/' | relative_url }}"><strong>4</strong><span>h-index</span></a>
+  <a class="metric-card" href="{{ '/speaking/' | relative_url }}"><strong>2</strong><span>Featured talks</span></a>
+</div>
 
-#### Niche Specialization
+## What I work on
 
-Specializing in cloud infrastructure automation, Infrastructure as Code, AI-driven operations, and enterprise platform engineering for regulated healthcare technology environments. My work focuses on designing scalable cloud platforms, modernizing software delivery processes, improving operational reliability, and advancing intelligent infrastructure management through a combination of enterprise engineering and scholarly research.
+My work sits at the intersection of cloud infrastructure automation, Infrastructure as Code, AI-driven operations, and enterprise platform engineering. I focus on reliable delivery, operational resilience, and auditable automation—especially where healthcare technology and other regulated systems demand both speed and control.
 
-## Professional Highlights
+<div class="focus-grid">
+  <article class="focus-card">
+    <span class="focus-number">01</span>
+    <h3>Cloud platforms</h3>
+    <p>Azure architecture, governance, modernization, and platform engineering designed to scale.</p>
+  </article>
+  <article class="focus-card">
+    <span class="focus-number">02</span>
+    <h3>Delivery automation</h3>
+    <p>Terraform, CI/CD, DevSecOps, and enterprise automation that make change repeatable and safe.</p>
+  </article>
+  <article class="focus-card">
+    <span class="focus-number">03</span>
+    <h3>Intelligent operations</h3>
+    <p>AIOps, observability, distributed systems, and self-healing workflows grounded in evidence.</p>
+  </article>
+</div>
 
-- Author of 12+ scholarly publications in Cloud Computing, Artificial Intelligence, DevOps Engineering, and Intelligent Systems
-- Published author in IEEE conferences and peer-reviewed journals
-- Research contributions recognized through academic citations and scholarly impact
-- Active peer reviewer supporting journals and international research conferences
-- Contributor to industry publications, including Forbes
-- Experienced in enterprise-scale cloud modernization, platform engineering, and automation initiatives
-- Research interests spanning Artificial Intelligence, Cloud Computing, Distributed Systems, Infrastructure as Code, and Intelligent Automation
+## Selected recognition
 
-## Areas of Expertise
+<div class="recognition-list">
+  <a href="{{ '/publications/' | relative_url }}"><span>Research</span><strong>Published through IEEE, Springer Nature, and peer-reviewed journals</strong><span aria-hidden="true">→</span></a>
+  <a href="{{ '/media/' | relative_url }}"><span>Media</span><strong>Work discussed by Forbes Technology Council</strong><span aria-hidden="true">→</span></a>
+  <a href="{{ '/speaking/' | relative_url }}"><span>Speaking</span><strong>Keynote and invited speaker on reliable AI systems</strong><span aria-hidden="true">→</span></a>
+  <a href="{{ '/peer-review/' | relative_url }}"><span>Service</span><strong>Peer-review contributions to research communities</strong><span aria-hidden="true">→</span></a>
+</div>
 
-- Microsoft Azure
-- Azure DevOps
-- Terraform
-- Infrastructure as Code (IaC)
-- CI/CD Automation
-- Platform Engineering
-- Cloud Architecture
-- Enterprise Automation
-- Observability Engineering
-- Dynatrace
-- Intune Management
-- AI-Driven Operations (AIOps)
-- Cloud Governance
-- Application Modernization
-- DevSecOps
-- Distributed Systems
+## Expertise
 
-## Research Interests
+<div class="tag-list">
+  <span>Microsoft Azure</span><span>Azure DevOps</span><span>Terraform</span><span>Infrastructure as Code</span><span>CI/CD</span><span>Platform Engineering</span><span>Cloud Architecture</span><span>Observability</span><span>Dynatrace</span><span>AIOps</span><span>Cloud Governance</span><span>DevSecOps</span><span>Distributed Systems</span>
+</div>
 
-- Cloud Computing
-- Artificial Intelligence
-- Infrastructure as Code
-- DevOps Automation
-- Intelligent Automation
-- Distributed Systems
-- Platform Engineering
-- Observability and Reliability Engineering
-- Healthcare Technology Systems
+<div class="contact-band">
+  <div><p class="eyebrow">Let’s connect</p><h2>Interested in cloud reliability, intelligent operations, or research collaboration?</h2></div>
+  <a class="button button--primary" href="mailto:bvsudhakavvya@gmail.com">Email me</a>
+</div>
