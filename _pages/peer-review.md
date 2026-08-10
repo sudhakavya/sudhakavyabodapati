@@ -8,7 +8,7 @@ excerpt: "Documented journal, conference, and technical judging activity, with s
 <p class="page-intro">Documented peer-review and judging activity. Each venue is supported by distinct evidence links; manuscript titles are presented as record details and do not reuse a venue-level certificate link.</p>
 
 <div class="metric-grid service-metrics" aria-label="Documented peer-review activity">
-  <div class="metric-card"><strong>7</strong><span>Documented venues</span></div>
+  <div class="metric-card"><strong>8</strong><span>Documented venues</span></div>
   <div class="metric-card"><strong>27+</strong><span>Completed reviews</span></div>
   <div class="metric-card"><strong>2</strong><span>Journal venues</span></div>
   <div class="metric-card"><strong>2026</strong><span>Activity year</span></div>
@@ -18,7 +18,7 @@ excerpt: "Documented journal, conference, and technical judging activity, with s
 
 <article class="evidence-card">
   <div class="evidence-card__header"><div><p class="eyebrow">PLOS · 9 assignments across 7 manuscripts</p><h3>PLOS Digital Health</h3></div></div>
-  <div class="evidence-actions"><a href="{{ '/files/review-evidence/plos-digital-health-reviewer-letter-redacted.pdf' | relative_url }}"><span>Official letter</span><strong>Editor-in-Chief certification</strong></a><a href="{{ '/files/review-evidence/plos-digital-health-completion-emails.pdf' | relative_url }}"><span>Raw Gmail</span><strong>Nine completion confirmations</strong></a></div>
+  <div class="evidence-actions"><a href="{{ '/files/review-evidence/plos-digital-health-reviewer-letter-redacted.pdf' | relative_url }}"><span>Official letter</span><strong>Editor-in-Chief certification</strong></a><a href="{{ '/files/review-evidence/plos-digital-health-completion-emails.pdf' | relative_url }}"><span>Complete Gmail records</span><strong>Nine completion confirmations</strong></a></div>
   <p>The certified letter confirms active reviewer status and five papers as of July 13, 2026. Four later editorial acknowledgments document additional original and revised-manuscript assignments.</p>
   <h4>Reviewed manuscripts</h4>
   <ul class="review-paper-list">
@@ -56,8 +56,9 @@ excerpt: "Documented journal, conference, and technical judging activity, with s
 
 <article class="evidence-card">
   <div class="evidence-card__header"><div><p class="eyebrow">MICCAI · 3 completed reviews</p><h3>MICCAI 2026</h3></div></div>
-  <div class="evidence-actions"><a href="{{ '/files/review-evidence/miccai-2026-reviewer-invitation.pdf' | relative_url }}"><span>Official email</span><strong>Reviewer invitation</strong></a><a href="{{ '/files/review-evidence/miccai-2026-reviewer-certificate.pdf' | relative_url }}"><span>Official certificate</span><strong>Reviewer certificate</strong></a></div>
+  <div class="evidence-actions"><a href="{{ '/files/review-evidence/miccai-2026-reviewer-invitation.pdf' | relative_url }}"><span>Official email</span><strong>Reviewer invitation</strong></a><a href="{{ '/files/review-evidence/miccai-2026-completion-confirmations.pdf' | relative_url }}"><span>Complete Gmail records</span><strong>Three upload confirmations</strong></a><a href="{{ '/files/review-evidence/miccai-2026-reviewer-certificate.pdf' | relative_url }}"><span>Official certificate</span><strong>Reviewer certificate</strong></a></div>
   <p>Reviewer for the Medical Image Computing and Computer Assisted Intervention Society’s 2026 conference in Strasbourg, France.</p>
+  <h4>Reviewed papers</h4><ul class="review-paper-list"><li>CEREval: A Clinically Grounded Multi-Stage Evaluation Framework for Radiology Report Generation</li><li>Beyond Visual Forensics: Auditing Multimodal Robustness for Synthetic Medical Image Detection</li><li>EndoGov: Inference-time Governance of Multi-Agent System for Endometrial Cancer Precision Diagnosis</li></ul>
 </article>
 
 <article class="evidence-card">
@@ -68,12 +69,14 @@ excerpt: "Documented journal, conference, and technical judging activity, with s
 
 <article class="evidence-card">
   <div class="evidence-card__header"><div><p class="eyebrow">ICACT · 2 completed reviews</p><h3>3rd International Conference on Advanced Computing Technologies</h3></div></div>
-  <div class="evidence-actions"><a href="{{ '/files/review-evidence/icact-2026-reviewer-invitation.pdf' | relative_url }}"><span>Official email</span><strong>Reviewer invitation</strong></a><a href="{{ '/files/review-evidence/icact-2026-completion-confirmations.pdf' | relative_url }}"><span>Raw Gmail</span><strong>Two submission confirmations</strong></a><a href="https://app.confconnects.com/conference/wwrazM5QB8hSDwWL78wx"><span>Public record</span><strong>Conference page</strong></a></div>
+  <div class="evidence-actions"><a href="{{ '/files/review-evidence/icact-2026-reviewer-invitation.pdf' | relative_url }}"><span>Official email</span><strong>Reviewer invitation</strong></a><a href="{{ '/files/review-evidence/icact-2026-completion-confirmations.pdf' | relative_url }}"><span>Complete Gmail records</span><strong>Two submission confirmations</strong></a><a href="https://app.confconnects.com/conference/wwrazM5QB8hSDwWL78wx"><span>Public record</span><strong>Conference page</strong></a></div>
   <h4>Reviewed papers</h4><ul class="review-paper-list"><li>Remote Monitoring in Healthcare Using Deep Learning and IoT</li><li>An Intelligent Speech Assistance Framework for Multiclass Stuttering Detection using Wav2Vec2 and BiLSTM</li></ul>
 </article>
 
 ## Technical judging
 
+<article class="evidence-card"><div class="evidence-card__header"><div><p class="eyebrow">Session chair & evaluator</p><h3>International Conference on Intelligent Computing and Sustainable Technologies (ICST 2026)</h3></div></div><div class="evidence-actions"><a href="{{ '/files/review-evidence/icst-2026-session-chair-invitation.pdf' | relative_url }}"><span>Complete Gmail record</span><strong>Official session-chair invitation</strong></a></div><p>Invited to chair an online technical session and evaluate each presented research paper, assign scores, and contribute to the selection of Best Paper Awards for the session or track.</p></article>
+
 <article class="evidence-card"><div class="evidence-card__header"><div><p class="eyebrow">Hackathon judge</p><h3>IBM × UNSA Hackathon</h3></div></div><div class="evidence-actions"><a href="https://ibm-unsa-hackathon.devpost.com/"><span>Public record</span><strong>Official event page</strong></a></div><p>Selected to evaluate projects for the sustainable food systems challenge using criteria including innovation, technical implementation, and impact.</p></article>
 
-<div class="evidence-disclosure" id="documentation-note"><h2>Evidence policy</h2><p>Email evidence is published as raw Gmail captures or original Gmail-print PDFs so the Gmail interface, sender, subject, date, and original message remain visible. Official letters, certificates, and public event records are linked in their original form. Only confidential reviewer comments, unpublished manuscripts, logged-in dashboards, and private access tokens are omitted from public copies.</p></div>
+<div class="evidence-disclosure" id="documentation-note"><h2>Evidence policy</h2><p>Email evidence is published as complete Gmail print copies or original Gmail-print PDFs, preserving the sender, recipient, subject, date, and complete public message text without clipping. Official letters, certificates, and public event records are linked in their original form. Confidential reviewer comments, unpublished manuscripts, logged-in dashboards, and private access tokens are omitted from public copies.</p></div>
