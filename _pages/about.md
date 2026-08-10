@@ -3,6 +3,7 @@ permalink: /
 title: "Cloud engineering with research-grade rigor."
 excerpt: "DevOps engineer and cloud architecture researcher building reliable, auditable systems for regulated environments."
 author_profile: true
+hide_title: true
 ---
 
 <div class="portfolio-hero">
