@@ -22,3 +22,18 @@ This Forbes article discusses the importance of reliable cloud delivery and expl
 The article names me as the developer of Runbook Mesh and discusses the framework's approach to improving reliability in Azure cloud delivery by coordinating Terraform-based infrastructure changes with Ansible-based configuration execution.
 
 The link above leads to the publisher's original record and provides the article title, author, publication date, and full context.
+
+## Forbes Technology Council Article
+### [Why Governance Must Evolve From Compliance To Continuous Intelligence](https://www.forbes.com/councils/forbestechcouncil/2026/08/12/why-governance-must-evolve-from-compliance-to-continuous-intelligence/)
+**Publication:** Forbes Technology Council on Forbes.com<br>
+**Author:** Ramachander Rao Thallada<br>
+**Date:** August 12, 2026<br>
+**Referenced Work:** 2024 research with Vimal Teja Manne on integrating governance controls into DevOps deployment cycles
+
+This Forbes article argues that governance must move beyond periodic audits and retrospective compliance reviews toward continuous, real-time intelligence that keeps pace with AI and technology transformation.
+
+The article cites my co-authored 2024 research with Vimal Teja Manne on DevOps integration as supporting evidence for embedding governance directly within deployment cycles rather than applying it after implementation.
+
+The link above leads to the publisher's original record and provides the article title, author, publication date, and full context.
+
+
