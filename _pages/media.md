@@ -9,19 +9,6 @@ Third-party professional coverage that names me, discusses my research, or inclu
 
 ---
 
-## Substantive coverage and direct quotation
-
-### [When AI Agents Go Rogue: What Enterprise Leaders Need To Know](https://www.techtarget.com/ai/news/366649796/When-AI-agents-go-rogue-What-enterprise-leaders-need-to-know)
-
-**Publication:** TechTarget (AI & Emerging Tech)<br>
-**Author:** Kinza Yasar<br>
-**Date:** August 27, 2026<br>
-**Referenced Work:** Evidence-Gated Search: Controlling Operational Search Explosion in LLM-Driven Incident Response
-
-The article quotes me directly as a DevOps engineer and researcher, discusses risks identified in my work on LLM-driven incident response, and links readers to the underlying research. My comments address cascading remediation failures and the need to keep monitoring and shutdown controls independent from autonomous agents.
-
-## Independent discussion or citation of research
-
 ### [Why Reliable Cloud Delivery Depends On Governing The Handoff Between Infrastructure And Configuration](https://www.forbes.com/councils/forbestechcouncil/2026/07/16/why-reliable-cloud-delivery-depends-on-governing-the-handoff-between-infrastructure-and-configuration/)
 
 **Publication:** Forbes Technology Council on Forbes.com<br>
@@ -47,7 +34,15 @@ The article cites my co-authored 2024 research with Vimal Teja Manne on DevOps i
 
 The link above leads to the publisher's original record and provides the article title, author, publication date, and full context.
 
-## Expert commentary
+### [When AI Agents Go Rogue: What Enterprise Leaders Need To Know](https://www.techtarget.com/ai/news/366649796/When-AI-agents-go-rogue-What-enterprise-leaders-need-to-know)
+
+**Publication:** TechTarget (AI & Emerging Tech)<br>
+**Author:** Kinza Yasar<br>
+**Date:** August 27, 2026<br>
+**Referenced Work:** Evidence-Gated Search: Controlling Operational Search Explosion in LLM-Driven Incident Response
+
+The article quotes me directly as a DevOps engineer and researcher, discusses risks identified in my work on LLM-driven incident response, and links readers to the underlying research. My comments address cascading remediation failures and the need to keep monitoring and shutdown controls independent from autonomous agents.
+
 
 ### [Quite Contrary: AI Should Be Used For The Unglamorous Jobs, Not Just Building Fancy Startups, According To Samer Bejjani Of Shootday](https://techround.co.uk/artificial-intelligence/quite-contrary-ai-should-be-used-for-the-unglamorous-jobs-not-just-building-fancy-startups-according-to-samer-bejjani-of-shootday/)
 **Publication:** TechRound<br>
@@ -62,7 +57,3 @@ I am featured in the expert commentary section, quoted on the view that AI creat
 The link above leads to the publisher's original record and provides the article title, author, publication date, and full context.
 
 ---
-
-## Documentation note
-
-Publisher links are the authoritative public records. Inclusion on this page describes the nature of each appearance; it does not imply that every article is primarily about me or that every outlet applies the same editorial process.
