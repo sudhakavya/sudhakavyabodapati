@@ -69,3 +69,7 @@ excerpt: "Documented journal, conference, and technical judging activity, with s
 <article class="evidence-card"><div class="evidence-card__header"><div><p class="eyebrow">Hackathon judge</p><h3>IBM × UNSA Hackathon</h3></div></div><div class="evidence-actions"><a href="https://ibm-unsa-hackathon.devpost.com/"><span>Public record</span><strong>Official event page</strong></a></div><p>Selected to evaluate projects for the sustainable food systems challenge using criteria including innovation, technical implementation, and impact.</p></article>
 
 <div class="evidence-disclosure" id="documentation-note"><h2>Evidence policy</h2><p>Public evidence is limited to appropriately redacted completion acknowledgments, official letters, certificates, and public event records. Confidential manuscript titles, abstracts, reviewer comments, scores, unpublished manuscripts, logged-in dashboards, personal contact information, and private access tokens are omitted.</p></div>
+
+## Activity not included in completed totals
+
+Invitations are counted only after the review is submitted and completion can be documented. The August 2026 invitation to review for <em>ACM Transactions on Software Engineering and Methodology</em> is therefore not included in the 27+ completed-review total.

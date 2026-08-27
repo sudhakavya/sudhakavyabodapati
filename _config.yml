@@ -9,12 +9,12 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Sudhakavya Bodapati Venkata"
+title                    : "Sudhakavya Bodapati Venkata | DevOps, Cloud Reliability & AI Research"
 title_separator          : "-"
 name                     : &name "Sudhakavya Bodapati Venkata"
 description              : &description "DevOps engineer, cloud architecture researcher, author, and peer reviewer working across Azure, infrastructure automation, AIOps, and regulated technology systems."
 url                      : "https://sudhakavya.github.io"
-baseurl                  : ""
+baseurl                  : "/sudhakavyabodapati"
 repository               : "sudhakavya/sudhakavyabodapati"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Sudhakavya Bodapati Venkata"
   pronouns         : "she/her"  
-  bio              : "DevOps Engineer | Cloud Architect | Researcher"
-  location         : "Eden Prairie, Minnesota, USA"
+  bio              : "DevOps Engineer | Cloud Reliability & AI Researcher"
+  location         : "Greater Minneapolis–Saint Paul Area, USA"
   employer         : "Starkey Laboratories, Inc."
   uri              : "https://sudhakavya.github.io/sudhakavyabodapati/"
   email            : "bvsudhakavya@gmail.com"
@@ -128,7 +128,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/images/profile.png"
+og_image                 : "profile.png"
 og_description           : "DevOps engineer and cloud architecture researcher specializing in Azure, infrastructure automation, AIOps, and regulated technology systems."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
