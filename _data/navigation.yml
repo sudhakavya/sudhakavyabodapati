@@ -9,6 +9,9 @@ main:
   - title: "Peer Review"
     url: /peer-review/
 
+  - title: "Memberships"
+    url: /memberships/
+
   - title: "Media"
     url: /media/
 

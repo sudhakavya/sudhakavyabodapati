@@ -29,6 +29,7 @@ hide_title: true
   <a href="{{ '/citation-impact/' | relative_url }}"><span>Research impact</span><strong>Public Google Scholar citation metrics and persistent researcher identifiers</strong><span aria-hidden="true">View record →</span></a>
   <a href="{{ '/professional-impact/' | relative_url }}"><span>Professional impact</span><strong>Engineering focus, operational responsibilities, and the documentation standard used for non-public work</strong><span aria-hidden="true">View record →</span></a>
   <a href="{{ '/peer-review/' | relative_url }}"><span>Peer review & judging</span><strong>Journal and conference review activity supported by invitations, acknowledgments, certificates, and recognition</strong><span aria-hidden="true">View record →</span></a>
+  <a href="{{ '/memberships/' | relative_url }}"><span>Professional membership</span><strong>Full membership in Sigma Xi, The Scientific Research Honor Society</strong><span aria-hidden="true">View record →</span></a>
   <a href="{{ '/media/' | relative_url }}"><span>Published material</span><strong>Third-party professional coverage discussing published technical work</strong><span aria-hidden="true">View record →</span></a>
   <a href="{{ '/speaking/' | relative_url }}"><span>Invited speaking</span><strong>Keynote and invited presentations concerning responsible AI, cloud reliability, and intelligent operations</strong><span aria-hidden="true">View record →</span></a>
 </div>
@@ -43,6 +44,7 @@ Sudhakavya’s work combines enterprise cloud architecture with research-driven 
   <div><dt>Industry</dt><dd>DevOps Engineer at Starkey Laboratories, Inc., supporting cloud and software-delivery systems in a regulated technology environment.</dd></div>
   <div><dt>Research</dt><dd>Published author in cloud computing, intelligent infrastructure, healthcare technology, AI operations, and distributed systems.</dd></div>
   <div><dt>Scholarly service</dt><dd>Reviewer for journals and conferences associated with PLOS, ACM, IEEE, MICCAI, and additional computing venues.</dd></div>
+  <div><dt>Membership</dt><dd>Full Member of Sigma Xi, The Scientific Research Honor Society.</dd></div>
   <div><dt>Public engagement</dt><dd>Keynote and invited speaker whose technical work has also been discussed in third-party professional coverage.</dd></div>
 </dl>
 
