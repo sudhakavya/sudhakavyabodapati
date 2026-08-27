@@ -70,6 +70,3 @@ excerpt: "Documented journal, conference, and technical judging activity, with s
 
 <div class="evidence-disclosure" id="documentation-note"><h2>Evidence policy</h2><p>Public evidence is limited to appropriately redacted completion acknowledgments, official letters, certificates, and public event records. Confidential manuscript titles, abstracts, reviewer comments, scores, unpublished manuscripts, logged-in dashboards, personal contact information, and private access tokens are omitted.</p></div>
 
-## Activity not included in completed totals
-
-Invitations are counted only after the review is submitted and completion can be documented. The August 2026 invitation to review for <em>ACM Transactions on Software Engineering and Methodology</em> is therefore not included in the 27+ completed-review total.
