@@ -27,7 +27,6 @@ hide_title: true
 <div class="evidence-index">
   <a href="{{ '/publications/' | relative_url }}"><span>Scholarly authorship</span><strong>Peer-reviewed publications in cloud computing, artificial intelligence, healthcare technology, and distributed systems</strong><span aria-hidden="true">View record →</span></a>
   <a href="{{ '/citation-impact/' | relative_url }}"><span>Research impact</span><strong>Public Google Scholar citation metrics and persistent researcher identifiers</strong><span aria-hidden="true">View record →</span></a>
-  <a href="{{ '/professional-impact/' | relative_url }}"><span>Professional impact</span><strong>Engineering focus, operational responsibilities, and the documentation standard used for non-public work</strong><span aria-hidden="true">View record →</span></a>
   <a href="{{ '/peer-review/' | relative_url }}"><span>Peer review & judging</span><strong>Journal and conference review activity supported by invitations, acknowledgments, certificates, and recognition</strong><span aria-hidden="true">View record →</span></a>
   <a href="{{ '/memberships/' | relative_url }}"><span>Professional membership</span><strong>Full membership in Sigma Xi, The Scientific Research Honor Society</strong><span aria-hidden="true">View record →</span></a>
   <a href="{{ '/media/' | relative_url }}"><span>Published material</span><strong>Third-party professional coverage discussing published technical work</strong><span aria-hidden="true">View record →</span></a>
