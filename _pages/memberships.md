@@ -22,7 +22,3 @@ excerpt: "Verified professional membership of Sudhakavya Bodapati Venkata."
     <a href="https://www.sigmaxi.org/members"><span>Organization</span><strong>Sigma Xi membership information</strong></a>
   </div>
 </article>
-
-## Documentation standard
-
-The private evidence record retains the official confirmation and membership documentation. Personal identifiers, account pages, payment information, and transaction records are not published. Membership dues are not characterized as evidence of distinction; the relevant fact recorded here is the confirmed membership grade.
