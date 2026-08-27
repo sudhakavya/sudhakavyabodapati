@@ -37,3 +37,28 @@ The article cites my co-authored 2024 research with Vimal Teja Manne on DevOps i
 The link above leads to the publisher's original record and provides the article title, author, publication date, and full context.
 
 
+## TechTarget Feature Article
+### [When AI Agents Go Rogue: What Enterprise Leaders Need To Know](https://www.techtarget.com/ai/news/366649796/When-AI-agents-go-rogue-What-enterprise-leaders-need-to-know)
+**Publication:** TechTarget (AI & Emerging Tech)<br>
+**Author:** Kinza Yasar<br>
+**Date:** August 27, 2026<br>
+**Referenced Work:** Evidence-Gated Search: Controlling Operational Search Explosion in LLM-Driven Incident Response
+
+This TechTarget article examines the risks enterprises face when autonomous AI agents act without adequate constraints, and what technical and governance safeguards enterprise leaders should put in place.
+
+The article quotes me directly as a DevOps engineer at Starkey Hearing and as the author of research on how LLM-driven incident-response systems can compound risk through repeated remediation actions. I am cited on how an agent can worsen a situation by taking further actions based on an initial wrong decision, and on the principle that an agent should never control or modify the mechanism responsible for monitoring and stopping it.
+
+The link above leads to the publisher's original record and provides the article title, author, publication date, and full context.
+
+## TechRound Expert Commentary
+### [Quite Contrary: AI Should Be Used For The Unglamorous Jobs, Not Just Building Fancy Startups, According To Samer Bejjani Of Shootday](https://techround.co.uk/artificial-intelligence/quite-contrary-ai-should-be-used-for-the-unglamorous-jobs-not-just-building-fancy-startups-according-to-samer-bejjani-of-shootday/)
+**Publication:** TechRound<br>
+**Author:** Gina Marrs<br>
+**Date:** August 26, 2026<br>
+**Contribution:** Expert commentary, credited as DevOps Engineer and Researcher
+
+This TechRound article presents the argument that AI delivers its greatest value by improving existing, unglamorous operations rather than by powering new consumer-facing startups, and gathers responses from industry practitioners.
+
+I am featured in the expert commentary section, quoted on the view that AI creates the most durable value when it improves real operations but only when it is constrained by evidence and accountability, and on why few founders pursue operational optimisation given that real-world operations are messy, difficult to integrate and carry genuine consequences.
+
+The link above leads to the publisher's original record and provides the article title, author, publication date, and full context.
