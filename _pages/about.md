@@ -51,7 +51,3 @@ Sudhakavya’s work combines enterprise cloud architecture with research-driven 
 ## Professional links
 
 <p class="professional-links"><a href="https://scholar.google.com/citations?user=yyiHyQ0AAAAJ&hl=en">Google Scholar</a><span>·</span><a href="https://orcid.org/0009-0004-5810-0431">ORCID</a><span>·</span><a href="https://www.linkedin.com/in/sudhakavya-bodapati-venkata-7b676816a/">LinkedIn</a><span>·</span><a href="https://github.com/sudhakavya">GitHub</a><span>·</span><a href="mailto:bvsudhakavya@gmail.com">Email</a></p>
-
-<p class="documentation-statement"><strong>Documentation standard.</strong> Public claims are linked to available source records. Confidential reviewer material, unpublished manuscripts, personal addresses, and private account data are not published.</p>
-
-<p class="documentation-statement"><strong>Professional disclaimer.</strong> This is an independent personal portfolio. Views and research presented here are my own and do not represent or imply endorsement by my employer.</p>
