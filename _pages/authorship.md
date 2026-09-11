@@ -7,9 +7,6 @@ author_profile: true
 # Authorship of Scholarly Articles
 
 My scholarly publications focus on Cloud Computing, Infrastructure as Code, DevOps Automation, Artificial Intelligence, Intelligent Systems, Healthcare Technology, and Enterprise Platform Engineering.
-
-Publications are listed in reverse chronological order, with each title linked to the official publisher page.
-
 ---
 
 ## Publications
