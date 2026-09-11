@@ -5,7 +5,7 @@ author_profile: true
 excerpt: "Verified professional membership of Sudhakavya Bodapati Venkata."
 ---
 
-<p class="page-intro">Professional and scholarly memberships are listed here with their exact membership grade and status. Payment options or applications are not presented as evidence of selection.</p>
+<p class="page-intro">Professional and scholarly memberships are listed here with their exact membership grade and status.</p>
 
 <article class="evidence-card">
   <div class="evidence-card__header">
