@@ -9,9 +9,10 @@ excerpt: "Documented journal, conference, and technical judging activity, with s
 <p class="page-intro">Completed peer-review and judging activity documented through redacted completion acknowledgments, official letters, certificates, and public event records.</p>
 
 <div class="metric-grid service-metrics" aria-label="Documented peer-review activity">
-  <div class="metric-card"><strong>8</strong><span>IEEE/Springer Conferences venues</span></div>
-  <div class="metric-card"><strong>29+</strong><span>Completed reviews · Aug. 2026</span></div>
-  <div class="metric-card"><strong>2</strong><span>Journal venues</span></div>
+  <div class="metric-card"><strong>4</strong><span>IEEE/Springer Conferences venues</span></div>
+  <div class="metric-card"><strong>2</strong><span>Technical Judging</span></div>
+  <div class="metric-card"><strong>3</strong><span>Journal venues</span></div>
+  <div class="metric-card"><strong>29+</strong><span>Completed reviews as of aug. 2026</span></div>
 </div>
 
 ## Journal Peer Review
