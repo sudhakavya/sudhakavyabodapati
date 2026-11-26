@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Sudhakavya Bodapati Venkata"
 title_separator          : "-"
 name                     : &name "Sudhakavya Bodapati Venkata"
-description              : &description "DevOps engineer, cloud architecture researcher, author, and peer reviewer working across Azure, infrastructure automation, AIOps, and regulated technology systems."
+description              : &description "DevOps engineer at Starkey Hearing Technologies working across Azure platforms, infrastructure automation, observability, and applied AI research."
 url                      : "https://sudhakavya.github.io"
 baseurl                  : "/sudhakavyabodapati"
 repository               : "sudhakavya/sudhakavyabodapati"
@@ -27,7 +27,7 @@ author:
   pronouns         : "she/her"  
   bio              : "DevOps Engineer | Cloud Reliability & AI Researcher"
   location         : "Eden Prairie, MN, USA"
-  employer         : "Starkey Laboratories, Inc."
+  employer         : "Starkey Hearing Technologies"
   uri              : "https://sudhakavya.github.io/sudhakavyabodapati/"
   email            : "bvsudhakavya@gmail.com"
 
@@ -129,7 +129,7 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 : "profile.png"
-og_description           : "DevOps engineer and cloud architecture researcher specializing in Azure, infrastructure automation, AIOps, and regulated technology systems."
+og_description           : "DevOps engineer at Starkey Hearing Technologies focused on Azure platforms, infrastructure automation, observability, and applied AI research."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

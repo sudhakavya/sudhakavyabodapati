@@ -1,19 +1,15 @@
 main:
-
+  - title: "Home"
+    url: /
+  - title: "Engineering"
+    url: /professional-impact/
   - title: "Research"
+    url: /research/
+  - title: "Publications"
     url: /publications/
-
-  - title: "Impact"
-    url: /citation-impact/
-
   - title: "Peer Review"
     url: /peer-review/
-
-  - title: "Memberships"
-    url: /memberships/
-
-  - title: "Media"
-    url: /media/
-
-  - title: "Speaking"
+  - title: "Speaking & Media"
     url: /speaking/
+  - title: "CV"
+    url: /cv/

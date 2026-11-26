@@ -1,88 +1,43 @@
 ---
-title: "Peer Review & Judging"
+title: "Peer Review & Research Service"
 permalink: /peer-review/
 author_profile: true
-excerpt: "Documented journal, conference, and technical judging activity, with separately labeled evidence for invitations, completed reviews, certificates, and recognition."
+excerpt: "Journal and conference review activity, with Google Scholar records and venue service clearly distinguished."
 ---
-# Peer Review and Technical Judging
 
-<p class="page-intro">Completed peer-review and judging activity documented through redacted completion acknowledgments, official letters, certificates, and public event records.</p>
+<p class="page-intro">I contribute to scholarly review in software engineering, healthcare technology, AI, cloud computing, and related systems. The counts below describe the activity shown on my public Google Scholar profile, not a combined total of every review platform.</p>
 
-<div class="metric-grid service-metrics" aria-label="Documented peer-review activity">
-  <div class="metric-card"><strong>4</strong><span>IEEE/Springer Conferences venues</span></div>
-  <div class="metric-card"><strong>2</strong><span>Technical Judging</span></div>
-  <div class="metric-card"><strong>3</strong><span>Journal venues</span></div>
-  <div class="metric-card"><strong>29+</strong><span>Completed reviews as of aug. 2026</span></div>
+<div class="metric-grid service-metrics" aria-label="Google Scholar peer review records">
+  <div class="metric-card"><strong>17</strong><span>review activities listed by Google Scholar</span></div>
+  <div class="metric-card"><strong>3</strong><span>publication or grant records</span></div>
+  <div class="metric-card"><strong>15</strong><span>PLOS Digital Health reviews shown</span></div>
+  <div class="metric-card"><strong>2</strong><span>ACM review records shown</span></div>
 </div>
 
-## Journal Peer Review
+## Reviews listed on Google Scholar
 
-### PLOS Digital Health
-**Activity:** Journal Peer Reviewer  
-**Reviews Completed:** 11 Manuscripts  
-**Evidence:** Editor-in-Chief Certification, Review Completion Confirmations  
-**Scope:** Clinical AI, Digital Health, Healthcare Analytics, Privacy-Preserving Computing, AI Governance
+Google Scholar displays review activity for these records:
 
-### ACM Transactions on Computing for Healthcare
-**Activity:** Journal Peer Reviewer  
-**Reviews Completed:** 1 Manuscript  
-**Evidence:** Reviewer Invitation, Completed Review Recognition  
-**Scope:** Healthcare Computing and Clinical Information Systems
+- **PLOS Digital Health:** 15 reviews
+- **ACM Transactions on Computing for Healthcare:** 1 review
+- **ACM Transactions on Software Engineering and Methodology:** 1 review
 
-### ACM Transactions on Software Engineering and Methodology
-**Activity:** Journal Peer Reviewer  
-**Reviews Completed:** 1 Manuscript  
-**Evidence:** Reviewer Invitation, Completed Review Recognition  
-**Scope:** LLM, AI
+<a class="button button--secondary" href="https://scholar.google.com/citations?user=yyiHyQ0AAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Open the current Scholar record</a>
 
----
+## Additional journal and conference service
 
-## Conference Peer Review
+Additional review work is recorded through venue invitations, completion acknowledgments, or certificates. Venue service includes:
 
-### IEEE Energy Conversion Congress & Expo (ECCE 2026)
-**Activity:** Conference Peer Reviewer  
-**Reviews Completed:** 7 Papers  
-**Evidence:** Program Chair Certificate, Review Completion Acknowledgments  
-**Scope:** Energy Systems, Intelligent Monitoring, Data Centers, Forecasting, Power Conversion
+- PLOS Digital Health
+- ACM Transactions on Computing for Healthcare
+- ACM Transactions on Software Engineering and Methodology
+- IEEE Internet of Things Journal
+- IEEE Access
+- Data in Brief
+- Information Processing & Management
+- MICCAI 2026
+- IEEE Energy Conversion Congress & Expo 2026
 
-### MICCAI 2026
-**Activity:** Conference Peer Reviewer  
-**Reviews Completed:** 3 Papers  
-**Evidence:** Reviewer Certificate, Review Submission Confirmations  
-**Scope:** Medical Imaging, Multimodal Artificial Intelligence, Clinical AI Systems
+Counts shown by individual journals and conferences can differ from Scholar’s public profile because review activity is recorded across separate systems.
 
-### IEEE ICIPTM 2026
-**Activity:** Conference Peer Reviewer  
-**Reviews Completed:** 5 Papers  
-**Evidence:** Reviewer Invitation, Review Submission Confirmations  
-**Scope:** Applied Machine Learning, Edge Inference, Forecasting, Industrial Fault Diagnosis
-
-### ICACT 2026
-**Activity:** Conference Peer Reviewer  
-**Reviews Completed:** 2 Papers  
-**Evidence:** Reviewer Invitation, Review Submission Confirmations, Public Conference Record  
-**Scope:** Healthcare Monitoring, Internet of Things (IoT), Machine Learning-Assisted Speech Analysis
-
----
-
-## Technical Judging and Evaluation
-
-### International Conference on Intelligent Computing and Sustainable Technologies (ICST 2026)
-**Activity:** Session Chair and Technical Evaluator  
-**Role:** Evaluated presented research papers, assigned technical scores, and contributed to Best Paper Award selection decisions.  
-**Evidence:** Official Session Chair Invitation
-
-### IBM × UNSA Hackathon
-**Activity:** Hackathon Judge  
-**Role:** Evaluated project submissions using innovation, technical implementation, and impact criteria.  
-**Evidence:** Official Event Record
-
----
-
-## Summary of Professional Evaluation Activities
-
-- **12 Journal Manuscripts Reviewed**
-- **17 Conference Papers Reviewed**
-- **29 Total Peer Reviews Completed**
-- **2 Additional Technical Judging Appointments**
-- **Reviewer, Judge, or Evaluator for International Journals, Conferences, and Technical
+<p class="documentation-statement"><strong>Review ethics.</strong> Manuscript identities, review reports, and confidential editorial correspondence are not published here. Evidence is limited to public acknowledgments and redacted completion records.</p>

@@ -1,98 +1,36 @@
 ---
-title: "Authorship of Scholarly Articles"
-permalink: /publications/
+title: "Research Directions & Selected Work"
+permalink: /research/
 author_profile: true
+excerpt: "Applied research on cloud delivery, infrastructure automation, and safe AI-assisted operations."
 ---
 
-# Authorship of Scholarly Articles
+<p class="page-intro">My research connects practical platform engineering with methods for making automated systems more predictable, auditable, and resilient.</p>
 
-My scholarly publications focus on Cloud Computing, Infrastructure as Code, DevOps Automation, Artificial Intelligence, Intelligent Systems, Healthcare Technology, and Enterprise Platform Engineering.
----
+<div class="focus-grid">
+  <article class="focus-card"><span class="focus-number">01 / INFRASTRUCTURE</span><h3>Governed cloud change</h3><p>Using Infrastructure as Code, reusable platform modules, and policy checks to make cloud changes easier to review and safer to operate.</p></article>
+  <article class="focus-card"><span class="focus-number">02 / AUTOMATION</span><h3>Reliable delivery workflows</h3><p>Coordinating infrastructure provisioning, configuration, validation, and recovery so failures are visible and changes remain controlled.</p></article>
+  <article class="focus-card"><span class="focus-number">03 / AI OPERATIONS</span><h3>Evidence-led intelligent response</h3><p>Studying how AI-assisted operations can use bounded search, validation, and human oversight instead of unverified autonomous actions.</p></article>
+</div>
 
-## Publications
+## Selected work
 
-### [Runbook Mesh: MCP-Orchestrated Terraform and Ansible Co-Execution on Azure](https://ieeexplore.ieee.org/abstract/document/11447687)
+<article class="paper-card">
+  <p class="eyebrow">Cloud delivery</p>
+  <h3><a href="https://ieeexplore.ieee.org/abstract/document/11447687">Runbook Mesh: MCP-Orchestrated Terraform and Ansible Co-Execution on Azure</a></h3>
+  <p>Explores a coordinated workflow for infrastructure provisioning and configuration execution, with explicit handoff checks and recovery paths.</p>
+</article>
 
-**Conference/Journal:** IEEE Conference Publication  
-**Year:** 2026  
-**DOI:** https://doi.org/10.1109/ICISCoIS62701.2026.11447687
+<article class="paper-card">
+  <p class="eyebrow">Infrastructure as Code</p>
+  <h3><a href="https://ieeexplore.ieee.org/abstract/document/11407594">Intent-to-AVM: MCP-Orchestrated AVM Terraform Stacks for Regulated Azure Environments</a></h3>
+  <p>Describes a plan-first approach to Azure deployment using reusable modules, validation, and human approval for controlled infrastructure changes.</p>
+</article>
 
----
+<article class="paper-card">
+  <p class="eyebrow">AI incident response</p>
+  <h3><a href="https://alkindipublisher.com/index.php/jcsts/article/view/12302">Evidence-Gated Search: Controlling Operational Search Explosion in LLM-Driven Incident Response</a></h3>
+  <p>Studies how evidence gates and bounded search can reduce unnecessary actions in AI-assisted incident response while preserving recovery capability.</p>
+</article>
 
-### [Intent-to-AVM: MCP-Orchestrated AVM Terraform Stacks for Regulated Azure Environments](https://ieeexplore.ieee.org/abstract/document/11407594)
-
-**Conference/Journal:** IEEE Conference Publication  
-**Year:** 2026  
-**DOI:** https://doi.org/10.1109/ICCIDS69108.2026.11407594
-
----
-
-### [Explainable Repair-Time Intelligence for Programmable Hearing Aids Using Digital Repair Twins](https://ieeexplore.ieee.org/abstract/document/11441246)
-
-**Conference/Journal:** IEEE Conference Publication  
-**Year:** 2026  
-**DOI:** https://doi.org/10.1109/ICAUC68182.2026.11441246
-
----
-
-### [CIRx: Autonomous Healing for Build and Deploy](https://link.springer.com/chapter/10.1007/978-3-032-23547-3_25)
-
-**Conference/Journal:** Springer Nature Link  
-**Year:** 2026  
-**DOI:** https://doi.org/10.1007/978-3-032-23547-3_25
-
----
-
-### [HERA-QI: Vision Language Quality Inspection for Hearing Aid Hardware and Software](https://ieeexplore.ieee.org/abstract/document/11502775)
-
-**Conference/Journal:** IEEE Conference Publication  
-**Year:** 2026  
-**DOI:** https://doi.org/10.1109/ICICCS67901.2026.11502775
-
----
-
-### [Device-Level Configuration Lineage for Custom Hearing Aid Manufacturing](https://ieeexplore.ieee.org/abstract/document/11502749)
-
-**Conference/Journal:** IEEE Conference Publication  
-**Year:** 2026  
-**DOI:** https://doi.org/10.1109/ICICCS67901.2026.11502749
-
----
-
-### [Computational Forgetting: Algorithms for Safe Memory Reduction in Long-Lived Systems](https://ieeexplore.ieee.org/abstract/document/11502801)
-**Conference/Journal:** IEEE Conference Publication  
-**Year:** 2026  
-**DOI:** [https://doiorg/10.1109/ICICCS67901.2026.11502801
-
----
-
-### [Evidence-Gated Search: Controlling Operational Search Explosion in LLM-Driven Incident Response](https://alkindipublisher.com/index.php/jcsts/article/view/12302)
-
-**Conference/Journal:** Journal of Computer Science and Technology Studies  
-**Year:** 2026  
-**DOI:** https://doiorg/10.32996/jcsts.2026.8.5.8
-
-
-### [Predictive Infrastructure Orchestration in Azure Using Terraform and Dynatrace for Medical Systems](https://ieeexplore.ieee.org/abstract/document/11447531)
-
-**Conference/Journal:** IEEE Conference Publication  
-**Year:** 2025  
-**DOI:** https://doiorg/10.1109/DECoN67170.2025.11447531
-
----
-
-### [Compliance-Aware Payment Gateway Operations for Healthcare and Medical Device Ecosystems: A DevOps Framework for Resilient Digital Transaction Systems](https://alkindipublisher.com/index.php/jcsts/article/view/12945) 
-
-**Conference/Journal:** Journal of Computer Science and Technology Studies  
-**Year:** 2024  
-**DOI:** https://doi.org/10.32996/jcsts.2024.6.1.37
-
----
-
-### [Risk-Aware Rework Prevention in Personalized Hearing Aid Manufacturing](https://alkindipublisher.com/index.php/jcsts/article/view/12416)
-
-**Conference/Journal:** Journal of Computer Science and Technology Studies  
-**Year:** 2022  
-**DOI:** https://doi.org/10.32996jcsts.2022.4.2.25
-
----
+<p class="documentation-statement"><strong>Research scope.</strong> These summaries describe published work. They do not disclose confidential employer systems or imply employer endorsement.</p>

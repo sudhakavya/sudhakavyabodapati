@@ -1,64 +1,46 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<p class="page-intro">DevOps engineering and applied research focused on cloud platforms, reliable software delivery, observability, and trustworthy automation.</p>
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Professional experience
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### DevOps Engineer, Starkey Hearing Technologies
+Minnesota, USA
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Work across Azure infrastructure, Infrastructure as Code, CI/CD, configuration automation, identity and access, networking, observability, and cloud-hosted application platforms. Collaborate with development, research, manufacturing, and IT teams to improve delivery reliability and operational visibility.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Selected technical areas include Azure App Services and Functions, Azure SQL, Azure AI Foundry, Terraform, Azure DevOps, Microsoft Entra ID, Key Vault, Service Bus, Dynatrace, and OpenTelemetry.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Education
+
+- **Master’s degree**, The University of Texas at Dallas
+- **Bachelor of Technology**
+
+## Technical focus
+
+<div class="tag-list">
+<span>Microsoft Azure</span><span>Terraform</span><span>Infrastructure as Code</span><span>Azure DevOps</span><span>CI/CD</span><span>Platform engineering</span><span>Cloud security</span><span>Microsoft Entra ID</span><span>Observability</span><span>Dynatrace</span><span>OpenTelemetry</span><span>Applied AI</span>
+</div>
+
+## Research and publications
+
+Author of 11 peer-reviewed works across cloud computing, DevOps automation, Infrastructure as Code, AI-assisted operations, healthcare technology, and intelligent systems. See the complete [publication list]({{ '/publications/' | relative_url }}) and [research overview]({{ '/research/' | relative_url }}).
+
+## Professional service
+
+- IEEE Senior Member
+- Journal and conference peer reviewer. Google Scholar currently displays 17 review activities across 3 publication or grant records. Additional service is listed on the [peer-review page]({{ '/peer-review/' | relative_url }}).
+
+## Speaking and published commentary
+
+- Keynote and invited speaker at BIDA 2026 and ICST 2026. See [speaking engagements]({{ '/speaking/' | relative_url }}).
+- Published work and third-party expert commentary in Forbes Technology Council, TechTarget, and TechRound. See [media coverage]({{ '/media/' | relative_url }}).
+
+<p class="documentation-statement"><strong>Accuracy note.</strong> This CV summarizes public professional information and omits confidential employer details. For current citation counts, use the linked <a href="https://scholar.google.com/citations?user=yyiHyQ0AAAAJ&amp;hl=en">Google Scholar profile</a>.</p>

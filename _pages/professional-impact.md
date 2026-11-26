@@ -2,26 +2,28 @@
 title: "Professional Impact"
 permalink: /professional-impact/
 author_profile: true
-excerpt: "Professional engineering focus and evidence standards for Sudhakavya Bodapati Venkata's work in cloud reliability, DevOps, and regulated technology systems."
+excerpt: "Cloud platform engineering and applied research focused on dependable delivery and operational resilience."
 ---
 
-<p class="page-intro">My professional work centers on reliable cloud infrastructure, secure software delivery, automation, observability, and operational resilience in a regulated technology environment.</p>
+<p class="page-intro">I am a DevOps Engineer at Starkey Hearing Technologies. My professional work centers on reliable cloud infrastructure, secure software delivery, automation, observability, and operational resilience.</p>
 
-## Areas of responsibility
+## Engineering focus
 
 <dl class="qualification-list">
-  <div><dt>Cloud delivery</dt><dd>Azure infrastructure, Infrastructure as Code, configuration automation, and governed deployment workflows.</dd></div>
-  <div><dt>Reliability</dt><dd>Observability, incident response, operational controls, and resilient platform practices.</dd></div>
-  <div><dt>Secure delivery</dt><dd>CI/CD, DevSecOps, auditability, and repeatable software-delivery processes.</dd></div>
-  <div><dt>Applied research</dt><dd>Methods connecting enterprise engineering practice with trustworthy AI and intelligent operations.</dd></div>
+  <div><dt>Cloud platforms</dt><dd>Azure infrastructure, Infrastructure as Code, platform configuration, identity, networking, and repeatable environment delivery.</dd></div>
+  <div><dt>Delivery systems</dt><dd>CI/CD, deployment automation, validation, release controls, and collaboration across software and infrastructure teams.</dd></div>
+  <div><dt>Observability</dt><dd>Dynatrace and OpenTelemetry practices that help teams trace application behavior, diagnose issues, and improve operational visibility.</dd></div>
+  <div><dt>Applied AI</dt><dd>Research on AI-assisted operations with bounded actions, validation, evidence, and human oversight.</dd></div>
 </dl>
 
-## Publicly verifiable record
+## Connecting practice and research
 
-Because production systems and employer information can be confidential, this public page does not disclose internal architecture, customer information, security controls, proprietary metrics, or unpublished company records. Public evidence of the technical themes above is available through my [scholarly publications]({{ '/publications/' | relative_url }}), [independent media coverage]({{ '/media/' | relative_url }}), and [invited speaking]({{ '/speaking/' | relative_url }}).
+My published work examines problems that also matter in production engineering: controlled Infrastructure as Code changes, coordination between provisioning and configuration, reliable recovery, and safe AI-assisted incident response.
 
-## Documentation maintained privately
+Explore my [research directions]({{ '/research/' | relative_url }}), [peer-reviewed publications]({{ '/publications/' | relative_url }}), and [speaking engagements]({{ '/speaking/' | relative_url }}).
 
-Where appropriate and authorized, a formal professional record may include role-confirmation letters, project scope, measurable outcomes, organizational context, and corroborating records. Such material should be accurate, attributable, and reviewed for confidentiality before it is shared.
+## Public information and confidentiality
 
-<p class="documentation-statement"><strong>Independence statement.</strong> This personal portfolio does not represent or imply endorsement by my employer. Professional claims are limited to information that can be stated without exposing confidential or proprietary material.</p>
+Production systems and employer information can be confidential. This portfolio does not disclose internal architecture, customer information, security controls, proprietary metrics, or unpublished company records.
+
+<p class="documentation-statement"><strong>Independence statement.</strong> This personal portfolio reflects my own professional and scholarly work. It does not represent or imply endorsement by my employer.</p>
