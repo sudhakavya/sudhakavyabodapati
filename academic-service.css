@@ -1,0 +1,129 @@
+.academic-service {
+  --service-rule: #dce4e0;
+  --service-muted: #51625b;
+  --service-accent: #17645e;
+}
+.service-hero {
+  padding-bottom: 0.125rem;
+}
+.service-hero h1 {
+  margin: 0 0 0.65rem;
+  font-size: clamp(2.2rem, 5vw, 3.4rem);
+}
+.service-hero > p {
+  color: var(--service-muted);
+  font-size: 1rem;
+  margin-bottom: 1.5rem;
+}
+.academic-service .service-metrics {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin: 0;
+  border: 1px solid var(--service-rule);
+  border-radius: 8px;
+  background: #f0f5f2;
+}
+.academic-service .service-metrics div {
+  display: flex;
+  flex-direction: column-reverse;
+  gap: 0.375rem;
+  padding: 1.1rem 1.25rem;
+}
+.academic-service .service-metrics div + div {
+  border-inline-start: 1px solid var(--service-rule);
+}
+.service-metrics dt {
+  color: var(--service-muted);
+  font-size: 0.8rem;
+  line-height: 1.35;
+}
+.service-metrics dd {
+  color: var(--service-accent);
+  font-family: Georgia, serif;
+  font-size: 2.1rem;
+  line-height: 1;
+  margin: 0;
+}
+.review-section {
+  margin-top: 2.75rem;
+}
+.review-section-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-bottom: 0.8rem;
+}
+.review-section-header h2 {
+  margin: 0;
+  font-size: clamp(1.45rem, 3vw, 1.85rem);
+}
+.review-section-header > span {
+  color: var(--service-muted);
+  font-size: 0.85rem;
+}
+.conference-count-note {
+  margin: 0 0 0.85rem;
+  color: var(--service-muted);
+  font-size: 0.84rem;
+}
+.service-profile-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1.25rem;
+  list-style: none;
+  margin: 0.8rem 0 0;
+  padding: 0;
+}
+.service-records {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  border-top: 1px solid var(--service-rule);
+}
+.service-records li, .chair-record {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 1rem;
+  align-items: start;
+  padding: 0.95rem 0;
+  border-bottom: 1px solid var(--service-rule);
+}
+.service-records h3, .chair-record h3 {
+  margin: 0 0 0.2rem;
+  font-size: 0.98rem;
+}
+.service-records p, .chair-record p {
+  margin: 0;
+  color: var(--service-muted);
+  font-size: 0.84rem;
+}
+.service-record-meta, .chair-date {
+  text-align: end;
+}
+.service-record-meta > span {
+  color: var(--service-accent);
+  font-size: 0.84rem;
+  font-weight: 650;
+}
+.chair-record {
+  padding: 1rem 1.1rem;
+  background: #f0f5f2;
+  border: 1px solid var(--service-rule);
+  border-radius: 8px;
+}
+@media (max-width: 540px) {
+  .academic-service .service-metrics div {
+    padding: 0.85rem 0.6rem;
+  }
+  .service-metrics dt {
+    font-size: 0.7rem;
+  }
+  .service-records li, .chair-record {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0.35rem;
+  }
+  .service-record-meta, .chair-date {
+    text-align: start;
+  }
+}

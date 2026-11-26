@@ -165,7 +165,6 @@ exclude:
   - _pages/category-archive.html
   - _pages/collection-archive.html
   - _pages/cv-json.md
-  - _pages/cv.md
   - _pages/markdown.md
   - _pages/non-menu-page.md
   - _pages/page-archive.html
